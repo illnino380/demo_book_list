@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo_book_list/static/css/main.6d91716e.css",
+    "main.js": "/demo_book_list/static/js/main.4c7e9fa6.js",
+    "index.html": "/demo_book_list/index.html",
+    "main.6d91716e.css.map": "/demo_book_list/static/css/main.6d91716e.css.map",
+    "main.4c7e9fa6.js.map": "/demo_book_list/static/js/main.4c7e9fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d91716e.css",
+    "static/js/main.4c7e9fa6.js"
+  ]
+}
